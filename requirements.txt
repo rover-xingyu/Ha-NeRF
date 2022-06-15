@@ -1,0 +1,16 @@
+torch==1.7.1
+torchvision==0.8.2
+
+pytorch-lightning==1.1.5
+einops==0.3.0
+test-tube==0.7.5
+kornia==0.4.1
+opencv-python==4.5.1.48
+matplotlib==3.3.3
+jupyter
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+pandas==1.1.5
+torch_optimizer
+
+lpips
