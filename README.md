@@ -123,7 +123,7 @@ python3.6 hallucinate.py \
 
 # Cite
 If you find our work useful, please consider citing:
-```
+```bibtex
 @inproceedings{chen2022hallucinated,
   title={Hallucinated neural radiance fields in the wild},
   author={Chen, Xingyu and Zhang, Qi and Li, Xiaoyu and Chen, Yue and Feng, Ying and Wang, Xuan and Wang, Jue},
