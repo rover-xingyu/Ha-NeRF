@@ -120,9 +120,6 @@ python3.6 hallucinate.py \
     --example_image artworks \
     --scene_name artworks_2_fountain
 ```
-![artworks_2_fountain](https://rover-xingyu.github.io/Ha-NeRF/images/art_c.mp4)
-
-
 
 # Cite
 If you find our work useful, please consider citing:
