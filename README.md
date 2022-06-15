@@ -95,7 +95,7 @@ python3.6 eval.py \
   --chunk 16384 --img_wh 320 240
 ```
 
-Then you can Use [eval_metric.py](eval_metric.py) to get the quantitative report of different metrics based on the rendered images from [eval.py](eval.py). It will create a file `result.txt` in the folder `{save_dir}/results/{dataset_name}/{scene_name}` and save the metrics.
+Then you can use [eval_metric.py](eval_metric.py) to get the quantitative report of different metrics based on the rendered images from [eval.py](eval.py). It will create a file `result.txt` in the folder `{save_dir}/results/{dataset_name}/{scene_name}` and save the metrics.
 
 Run (example)
 ```
