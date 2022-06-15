@@ -49,7 +49,7 @@ def get_opts():
     parser.add_argument('--use_mask', default=False, action="store_true",
                         help='whether to use mask')
     parser.add_argument('--encode_random', default=False, action="store_true",
-                        help='whether to encode_random (NeRF-M)')
+                        help='whether to encode_random')
 
     # Loss parameters
     parser.add_argument('--maskrs_max', type=float, default=0.0000015,
