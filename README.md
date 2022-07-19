@@ -4,10 +4,10 @@
 [Latest arXiv](https://arxiv.org/pdf/2111.15246.pdf) |
 [Supplementary](https://rover-xingyu.github.io/Ha-NeRF/files/Ha_NeRF_CVPR_2022_supp.pdf)**
 
-[Xingyu Chen¹](https://github.com/rover-xingyu/), 
+[Xingyu Chen¹](https://rover-xingyu.github.io/), 
 [Qi Zhang²](https://qzhang-cv.github.io/), 
 [Xiaoyu Li²](https://xiaoyu258.github.io/), 
-[Yue Chen¹](https://github.com/fanegg/), 
+[Yue Chen¹](https://fanegg.github.io/), 
 [Ying Feng²](https://github.com/rover-xingyu/Ha-NeRF/),
 [Xuan Wang²](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en/),
 [Jue Wang²](https://juewang725.github.io/). 
