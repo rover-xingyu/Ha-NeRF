@@ -27,7 +27,7 @@ The code is largely based on NeRF implementation (see master or dev branch), the
 ## Hardware
 
 * OS: Ubuntu 18.04
-* NVIDIA GPU with **CUDA>=10.2** (tested with 1 RTX2080Ti)
+* NVIDIA GPU with **CUDA>=10.2** (tested with 4 A100)
 
 ## Software
 
