@@ -191,7 +191,7 @@ class PhototourismDataset(Dataset):
 
                     img_8 = img.resize((img_w//self.img_downscale_appearance, img_h//self.img_downscale_appearance), Image.LANCZOS)
                     img_8 = self.normalize(self.transform(img_8)) # (3, h, w)
-                    self.all_imgs += [self.normalize(img_8)]
+                    self.all_imgs += [img_8]
                     self.all_imgs_wh += [torch.Tensor([img_w, img_h]).unsqueeze(0)]
                     img_rs = img_rs.view(3, -1).permute(1, 0) # (h*w, 3) RGB
                     self.all_rgbs += [img_rs]
