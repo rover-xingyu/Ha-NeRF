@@ -27,7 +27,8 @@ The code is largely based on NeRF implementation (see master or dev branch), the
 ## Hardware
 
 * OS: Ubuntu 18.04
-* NVIDIA GPU with **CUDA>=10.2** (tested with 4 A100s)
+* NVIDIA GPU with **CUDA>=10.2**
+* We optimize all implementations for 600 000 iterations with a batch size of 1024 on 4 A100s, where Ha-NeRF and NeRF-W take 20 and 18 hours, respectively. Both methods require around 20 GB of memory for training and 5 GB for inference.
 
 ## Software
 
