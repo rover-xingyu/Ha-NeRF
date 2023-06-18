@@ -18,10 +18,6 @@
 
 This repository is an official implementation of [Ha-NeRF](https://rover-xingyu.github.io/Ha-NeRF/) (Hallucinated Neural Radiance Fields in the Wild) using pytorch ([pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)). 
 
-<!-- I try to reproduce (some of) the results on the lego dataset (Section D). Training on [Phototourism real images](https://github.com/ubc-vision/image-matching-benchmark) (as the main content of the paper) has also passed. Please read the following sections for the results.
-
-The code is largely based on NeRF implementation (see master or dev branch), the main difference is the model structure and the rendering process, which can be found in the two files under `models/`. -->
-
 # :computer: Installation
 
 ## Hardware
