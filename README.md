@@ -5,12 +5,12 @@
 [Supplementary](https://rover-xingyu.github.io/Ha-NeRF/files/Ha_NeRF_CVPR_2022_supp.pdf)**
 
 [Xingyu Chen¹](https://rover-xingyu.github.io/), 
-[Qi Zhang²](https://qzhang-cv.github.io/), 
-[Xiaoyu Li²](https://xiaoyu258.github.io/), 
-[Yue Chen¹](https://fanegg.github.io/), 
-[Ying Feng²](https://github.com/rover-xingyu/Ha-NeRF/),
-[Xuan Wang²](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en/),
-[Jue Wang²](https://juewang725.github.io/). 
+[Qi Zhang²](https://scholar.google.com/citations?user=2vFjhHMAAAAJ&hl=en), 
+[Xiaoyu Li²](https://scholar.google.com/citations?user=Dt0PcAYAAAAJ&hl=en), 
+[Yue Chen¹](https://scholar.google.com/citations?user=M2hq1_UAAAAJ&hl=en), 
+[Ying Feng²](https://scholar.google.com/citations?user=PhkrqioAAAAJ&hl=en),
+[Xuan Wang²](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en),
+[Jue Wang²](https://scholar.google.com/citations?user=Bt4uDWMAAAAJ&hl=en). 
 
 [¹Xi'an Jiaotong University)](http://en.xjtu.edu.cn/),
 [²Tencent AI Lab](https://ai.tencent.com/ailab/en/index/).
