@@ -12,7 +12,7 @@
 [Xuan Wang²](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en),
 [Jue Wang²](https://scholar.google.com/citations?user=Bt4uDWMAAAAJ&hl=en). 
 
-[¹Xi'an Jiaotong University)](http://en.xjtu.edu.cn/),
+[¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/),
 [²Tencent AI Lab](https://ai.tencent.com/ailab/en/index/).
 
 
