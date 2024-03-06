@@ -4,7 +4,7 @@
 [Latest arXiv](https://arxiv.org/pdf/2111.15246.pdf) |
 [Supplementary](https://rover-xingyu.github.io/Ha-NeRF/files/Ha_NeRF_CVPR_2022_supp.pdf)**
 
-[Xingyu Chen¹](https://rover-xingyu.github.io/), 
+[Xingyu Chen¹](https://scholar.google.com/citations?user=gDHPrWEAAAAJ&hl=en), 
 [Qi Zhang²](https://scholar.google.com/citations?user=2vFjhHMAAAAJ&hl=en), 
 [Xiaoyu Li²](https://scholar.google.com/citations?user=Dt0PcAYAAAAJ&hl=en), 
 [Yue Chen¹](https://scholar.google.com/citations?user=M2hq1_UAAAAJ&hl=en), 
